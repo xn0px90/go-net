@@ -1,2 +1,2 @@
 # go-net
-Networking examples in Go.
+Networking Examples in Go.

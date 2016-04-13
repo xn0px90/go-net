@@ -5,3 +5,7 @@ go:
   - 1.6.1
   - tip
 sudo: false
+notifications:
+  email:
+    recipients:
+      - xn0px90@gmail.com
